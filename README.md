@@ -1,4 +1,4 @@
-# Snoring-Detection 
+# FUZZY LOGIC-ENHANCED DEEP NEURAL NETWORKS FOR SLEEP APNEA SEVERITY CLASSIFICATION THROUGH SNORING DETECTION
 
 This project consists of the use of convolutional neural networks coupled with an raspberry pi for real time snoring detection.
 
